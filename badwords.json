@@ -9,11 +9,11 @@
     },
     {
         "badtext": "bugger",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "fuck",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "motherfucker",
@@ -21,42 +21,42 @@
     },
     {
         "badtext": "cunt",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "asshole",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "arse",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "arsehole",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "pussy",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "wanker",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "faggot",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "whore",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "nigga",
-        "substituted": "****"
+        "substituted": "******"
     },
     {
         "badtext": "dumbass",
-        "substituted": "****"
+        "substituted": "******"
     }
 ]
